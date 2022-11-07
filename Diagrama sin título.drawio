@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T05:05:20.144Z" agent="5.0 (Windows)" etag="wXeeAu1j_eJtRhkgIwuR" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T05:10:42.047Z" agent="5.0 (Windows)" etag="gTFrTFtyKTemAeoSW6Y4" version="20.4.0" type="github">
   <diagram id="fpPL_orRF3WTuG4RCUT7" name="Página-1">
-    <mxGraphModel dx="643" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="914" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,11 +109,16 @@
         <mxCell id="bufxGuPOUsLzFaJyrNdJ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bufxGuPOUsLzFaJyrNdJ-47" target="bufxGuPOUsLzFaJyrNdJ-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bufxGuPOUsLzFaJyrNdJ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bufxGuPOUsLzFaJyrNdJ-47" target="bufxGuPOUsLzFaJyrNdJ-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.0000000000001" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bufxGuPOUsLzFaJyrNdJ-47" value="Cuidado de platuda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bufxGuPOUsLzFaJyrNdJ-48" value="&lt;div&gt;Riego&lt;/div&gt;&lt;div&gt;Nutricion&lt;/div&gt;&lt;div&gt;regualcion de temperatura y humedad&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="567.5" width="120" height="85" as="geometry" />
+          <mxGeometry x="560" y="547.5" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="bufxGuPOUsLzFaJyrNdJ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bufxGuPOUsLzFaJyrNdJ-58">
           <mxGeometry relative="1" as="geometry">
@@ -171,6 +176,17 @@
         </mxCell>
         <mxCell id="bufxGuPOUsLzFaJyrNdJ-77" value="&lt;div&gt;Desinfección de materiales utilizad osen el proceso&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="349" y="830" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bufxGuPOUsLzFaJyrNdJ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bufxGuPOUsLzFaJyrNdJ-82" target="bufxGuPOUsLzFaJyrNdJ-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275.0000000000001" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bufxGuPOUsLzFaJyrNdJ-82" value="&lt;div&gt;Datos del &lt;br&gt;&lt;/div&gt;&lt;div&gt;Desarrollo de la plántula&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="225" y="545" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bufxGuPOUsLzFaJyrNdJ-84" value="&lt;div&gt;Recolección medición de &lt;br&gt;&lt;/div&gt;&lt;div&gt;Datos del &lt;br&gt;&lt;/div&gt;Desarrollo de la plántula" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="440" width="125" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
