@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T05:00:48.476Z" agent="5.0 (Windows)" etag="nFxhZYiIRaHSnA52SpTl" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T05:05:20.144Z" agent="5.0 (Windows)" etag="wXeeAu1j_eJtRhkgIwuR" version="20.4.0" type="github">
   <diagram id="fpPL_orRF3WTuG4RCUT7" name="Página-1">
     <mxGraphModel dx="643" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="bufxGuPOUsLzFaJyrNdJ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bufxGuPOUsLzFaJyrNdJ-47" target="bufxGuPOUsLzFaJyrNdJ-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bufxGuPOUsLzFaJyrNdJ-47" value="Cueidado de platula" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bufxGuPOUsLzFaJyrNdJ-47" value="Cuidado de platuda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bufxGuPOUsLzFaJyrNdJ-48" value="&lt;div&gt;Riego&lt;/div&gt;&lt;div&gt;Nutricion&lt;/div&gt;&lt;div&gt;regualcion de temperatura y humedad&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
