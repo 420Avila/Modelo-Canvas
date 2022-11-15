@@ -1,1 +1,331 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T01:25:56.765Z" agent="5.0 (Windows)" version="20.5.3" etag="t0PP2rBaWvAPKuXtg19I" type="github"><diagram id="YmKn464T9NJOSNIDirGX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-15T03:54:41.845Z" agent="5.0 (Windows)" etag="53mesraT3Y3xVwxbu9Mt" version="20.5.3" type="github">
+  <diagram id="YmKn464T9NJOSNIDirGX" name="Página-1">
+    <mxGraphModel dx="4134" dy="2495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--1" target="Rtp1QOuKAdaOCQPWs-3--42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="-250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--1" target="Rtp1QOuKAdaOCQPWs-3--3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="-250" />
+              <mxPoint x="-250" y="-250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--1" target="Rtp1QOuKAdaOCQPWs-3--31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="-250" />
+              <mxPoint x="180" y="-250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--1" target="Rtp1QOuKAdaOCQPWs-3--77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="-250" />
+              <mxPoint x="-735" y="-250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--1" target="Rtp1QOuKAdaOCQPWs-3--54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="-250" />
+              <mxPoint x="1025" y="-250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--1" target="Rtp1QOuKAdaOCQPWs-3--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="-315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--1" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;&lt;br&gt;&lt;span id=&quot;page505R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 237.165px; top: 230.156px; font-family: sans-serif; transform: scaleX(0.810519);&quot;&gt;Suelos&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-440" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--2" value="El suelo es un elemento clave para el mantenimiento de la vida sobre la Tierra. Principal soporte de la vegetación, la infraestructura y el hábitat de la biodiversidad, participa de manera esencial en el funcionamiento de cualquier ecosistema." style="rounded=1;whiteSpace=wrap;fontSize=12;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-370" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page505R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 509.289px; top: 833.351px; font-family: sans-serif; transform: scaleX(0.963138);&quot;&gt;CLASIFICACIÓN DE SUELOS&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="-220" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-450" y="-150" width="467.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page509R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.008px; top: 1187.18px; font-family: sans-serif; transform: scaleX(0.741161);&quot;&gt;intentos&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.008px; top: 1221.18px; font-family: sans-serif; transform: scaleX(0.742491);&quot;&gt;para armonizar la forma de clasificar y caracterizar los suelos.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="Rtp1QOuKAdaOCQPWs-3--14">
+          <mxGeometry x="77.91666666666667" width="242.40740740740736" height="57.49999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page509R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.008px; top: 1221.18px; font-family: sans-serif; transform: scaleX(0.742491);&quot;&gt;la taxonomía de suelos de la USDA&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 1250.11px; top: 1220.88px; font-family: sans-serif;&quot;&gt;1&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.011px; top: 1323.18px; font-family: sans-serif; transform: scaleX(0.726631);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="Rtp1QOuKAdaOCQPWs-3--14">
+          <mxGeometry x="242.40740740740736" y="92" width="225.09259259259258" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.385;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="Rtp1QOuKAdaOCQPWs-3--14" source="Rtp1QOuKAdaOCQPWs-3--4" target="Rtp1QOuKAdaOCQPWs-3--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--6" value="&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page509R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.011px; top: 1255.18px; font-family: sans-serif; transform: scaleX(0.748896);&quot;&gt;la Base Referencial Mundial del Recurso Suelo&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.011px; top: 1289.18px; font-family: sans-serif; transform: scaleX(0.772367);&quot;&gt;.&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.011px; top: 1323.18px; font-family: sans-serif; transform: scaleX(0.726631);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="Rtp1QOuKAdaOCQPWs-3--14">
+          <mxGeometry y="92" width="225.09259259259258" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="Rtp1QOuKAdaOCQPWs-3--14" source="Rtp1QOuKAdaOCQPWs-3--4" target="Rtp1QOuKAdaOCQPWs-3--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page509R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.011px; top: 1289.18px; font-family: sans-serif; transform: scaleX(0.772367);&quot;&gt;liderada por la Organización de las Naciones Unidas para la&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.011px; top: 1323.18px; font-family: sans-serif; transform: scaleX(0.726631);&quot;&gt;Alimentación y la Agricultura&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="Rtp1QOuKAdaOCQPWs-3--14">
+          <mxGeometry y="172.5" width="225.09259259259258" height="57.49999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="Rtp1QOuKAdaOCQPWs-3--14" source="Rtp1QOuKAdaOCQPWs-3--6" target="Rtp1QOuKAdaOCQPWs-3--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--6" target="Rtp1QOuKAdaOCQPWs-3--19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-707.5" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-470" y="-35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--19" target="Rtp1QOuKAdaOCQPWs-3--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--19" value="E&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 160.705px; font-family: sans-serif; transform: scaleX(0.726537);&quot;&gt;l suelo es cualquier material dentro de los dos metros de superficie terrestre que está&lt;/span&gt;&lt;/font&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 193.345px; font-family: sans-serif; transform: scaleX(0.756495);&quot;&gt;en contacto con la atmósfera, con exclusión de los organismos vivos,&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="110" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.648;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--24" target="Rtp1QOuKAdaOCQPWs-3--27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--24" target="Rtp1QOuKAdaOCQPWs-3--29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 291.265px; font-family: sans-serif; transform: scaleX(0.772546);&quot;&gt;La clasificación más actualizada&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 323.905px; font-family: sans-serif; transform: scaleX(0.806413);&quot;&gt;de la WRB (2014) incluye 32 unidades de suelo, y está basada en las diferencias que existen&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 356.545px; font-family: sans-serif; transform: scaleX(0.780729);&quot;&gt;en sus características diagnósticas&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-227.5" y="110" width="295" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 356.545px; font-family: sans-serif; transform: scaleX(0.780729);&quot;&gt;horizontes, propiedades físicas, químicas y biológicas&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="250" width="222.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--29" value="&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 356.545px; font-family: sans-serif; transform: scaleX(0.780729);&quot;&gt;horizontes, propiedades físicas, químicas y biológicas&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="250" width="202.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--31" target="Rtp1QOuKAdaOCQPWs-3--32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 861.312px; top: 564.398px; font-family: sans-serif; transform: scaleX(0.947652);&quot;&gt;SUELOS DE MÉXICO&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--32" target="Rtp1QOuKAdaOCQPWs-3--36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--32" value="&lt;br&gt;&lt;span style=&quot;&quot; id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 634.892px; font-family: sans-serif; transform: scaleX(0.797609);&quot;&gt;El INEGI reporta la presencia en México de 25 de las 32 unidades de suelo que aparecen en la&lt;/span&gt;&lt;/font&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 667.532px; font-family: sans-serif; transform: scaleX(0.764471);&quot;&gt;clasificación WRB&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-170" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.092;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--36" target="Rtp1QOuKAdaOCQPWs-3--105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="250" />
+              <mxPoint x="181" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--36" target="Rtp1QOuKAdaOCQPWs-3--114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--36" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 363.875px; top: 798.092px; font-family: sans-serif; transform: scaleX(0.779719);&quot;&gt;Las seis unidades dominantes son&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="-50" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--54" target="Rtp1QOuKAdaOCQPWs-3--73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="-500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--54" value="&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page516R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 372.531px; top: 786.5px; font-family: sans-serif; transform: scaleX(0.995717);&quot;&gt;LA DEGRADACIÓN DE LOS SUELOS EN MÉXICO&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--56" target="Rtp1QOuKAdaOCQPWs-3--65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="-690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--56" target="Rtp1QOuKAdaOCQPWs-3--149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--56" target="Rtp1QOuKAdaOCQPWs-3--59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--56" target="Rtp1QOuKAdaOCQPWs-3--69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="200" />
+              <mxPoint x="1190" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--56" value="&lt;span id=&quot;page516R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 842.8px; font-family: sans-serif; transform: scaleX(0.843201);&quot;&gt;Los procesos de la degradación&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 947.305px; font-family: sans-serif; transform: scaleX(0.726287);&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="935" y="115" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--59" target="Rtp1QOuKAdaOCQPWs-3--61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="597" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--59" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page535R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 715.541px; top: 609.869px; font-family: sans-serif; transform: scaleX(0.934475);&quot;&gt;EROSIÓN HÍDRICA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="840" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--61" value="&lt;br&gt;&lt;span id=&quot;page535R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.476px; top: 658.625px; font-family: sans-serif; transform: scaleX(0.780229);&quot;&gt;La tasa y magnitud de la erosión hídrica están controladas principalmente por la intensidad de&lt;/span&gt;&lt;/font&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.476px; top: 684.751px; font-family: sans-serif; transform: scaleX(0.719136);&quot;&gt;la lluvia, la erodabilidad propia de los suelos, la pendiente del terreno y la cubierta vegetal. Estos&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.476px; top: 710.878px; font-family: sans-serif; transform: scaleX(0.771982);&quot;&gt;factores, combinados con el manejo inadecuado de las tierras forestales, agrícolas y ganaderas,&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="398.75" y="290" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--65" target="Rtp1QOuKAdaOCQPWs-3--66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--65" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page535R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 728.528px; top: 918.967px; font-family: sans-serif; transform: scaleX(0.936788);&quot;&gt;EROSIÓN EÓLICA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="980" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;span id=&quot;page535R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.476px; top: 975.451px; font-family: sans-serif; transform: scaleX(0.788549);&quot;&gt;La erosión eólica comparte con la erosión hídrica dos de los factores que controlan su tasa y&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.476px; top: 1001.58px; font-family: sans-serif; transform: scaleX(0.748492);&quot;&gt;magnitud, estos son la erodabilidad y la presencia de la vegetación. Sin embargo, en este proceso,&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.476px; top: 1027.7px; font-family: sans-serif; transform: scaleX(0.737054);&quot;&gt;la rugosidad del suelo&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 284.171px; top: 1027.46px; font-family: sans-serif;&quot;&gt;5&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 291.143px; top: 1027.46px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 296.791px; top: 1027.7px; font-family: sans-serif; transform: scaleX(0.75675);&quot;&gt;y el clima también desempeñan papeles significativos. Este tipo de erosión&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.47px; top: 1053.83px; font-family: sans-serif; transform: scaleX(0.756206);&quot;&gt;afecta principalmente a las regiones áridas, semiáridas y subhúmedas secas del país, aunque no es&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.47px; top: 1079.96px; font-family: sans-serif; transform: scaleX(0.718986);&quot;&gt;exclusiva de ellas.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="410" width="520" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--69" target="Rtp1QOuKAdaOCQPWs-3--71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-620" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--69" value="&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page555R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 775.025px; top: 953.816px; font-family: sans-serif; transform: scaleX(0.951657);&quot;&gt;DEGRADACIÓN FÍSICA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--71" value="&lt;br&gt;&lt;span id=&quot;page555R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 208.615px; top: 1010.67px; font-family: sans-serif; transform: scaleX(0.719303);&quot;&gt;La degradación física del suelo se manifiesta de manera evidente a través del sellado, encostramiento,&lt;/span&gt;&lt;/font&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 208.615px; top: 1036.79px; font-family: sans-serif; transform: scaleX(0.712281);&quot;&gt;y compactación, los cuales en términos generales afectan los ciclos de nutrientes y la infiltración del&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 208.615px; top: 1062.92px; font-family: sans-serif; transform: scaleX(0.775248);&quot;&gt;agua, provocando el anegamiento en las zonas donde se acumulan las escorrentías.&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="390" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--73" target="Rtp1QOuKAdaOCQPWs-3--74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--73" value="&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page558R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 448.878px; top: 1169.74px; font-family: sans-serif; transform: scaleX(0.956918);&quot;&gt;CAUSAS DE LA DEGRADACIÓN DEL SUELO&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--74" target="Rtp1QOuKAdaOCQPWs-3--56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--74" value="&lt;br&gt;&lt;span id=&quot;page558R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 1258.97px; font-family: sans-serif; transform: scaleX(0.788871);&quot;&gt;las más importantes son los cambios en el uso del suelo asociadas a la agricultura&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 1287.31px; font-family: sans-serif; transform: scaleX(0.754542);&quot;&gt;mecanizada, el sobrepastoreo y el desarrollo urbano e industria&lt;/span&gt;&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925" y="-35" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--90" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-930" y="-260" width="440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--77" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page570R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 326.155px; top: 130.464px; font-family: sans-serif; transform: scaleX(0.933127);&quot;&gt;CAUSAS Y CONSECUENCIAS DE LA DESERTIFICACIÓN&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="Rtp1QOuKAdaOCQPWs-3--90">
+          <mxGeometry x="100" y="40" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--79" value="&lt;br&gt;&lt;span id=&quot;page570R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 503.037px; font-family: sans-serif; transform: scaleX(0.833732);&quot;&gt;Las consecuencias más importantes de la desertificación se agrupan en las afectaciones a&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page572R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 208.615px; top: 130.446px; font-family: sans-serif; transform: scaleX(0.733588);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="Rtp1QOuKAdaOCQPWs-3--90">
+          <mxGeometry x="280" y="180" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Rtp1QOuKAdaOCQPWs-3--90" source="Rtp1QOuKAdaOCQPWs-3--77" target="Rtp1QOuKAdaOCQPWs-3--79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--81" value="&#xa;&lt;span id=&quot;page570R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 531.371px; font-family: sans-serif; transform: scaleX(0.788783);&quot;&gt;las poblaciones humanas y a los ecosistemas, las primeras tienen que ver con la insuficiencia&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.743141);&quot;&gt;alimentaria,&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 203.145px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 215.859px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.640773);&quot;&gt;la&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 230.063px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 242.776px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.817566);&quot;&gt;pobreza,&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 315.267px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 327.98px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.642433);&quot;&gt;el&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 342.221px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 354.935px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.870134);&quot;&gt;agravamiento&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 470.662px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 483.376px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.926298);&quot;&gt;de&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 503.909px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 516.622px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.883506);&quot;&gt;problemas&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 604.752px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 617.465px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.926298);&quot;&gt;de&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 637.998px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 650.712px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.793496);&quot;&gt;salud&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 694.685px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 707.398px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.853533);&quot;&gt;debido&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 764.158px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 776.872px; top: 559.705px; font-family: sans-serif;&quot;&gt;a&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 786.844px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 799.557px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.692234);&quot;&gt;las&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 822.574px; top: 559.705px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 835.288px; top: 559.705px; font-family: sans-serif; transform: scaleX(0.741204);&quot;&gt;partículas &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page572R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 208.615px; top: 130.446px; font-family: sans-serif; transform: scaleX(0.733588);&quot;&gt;transportadas por el viento&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Rtp1QOuKAdaOCQPWs-3--90">
+          <mxGeometry y="180" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="Rtp1QOuKAdaOCQPWs-3--90" source="Rtp1QOuKAdaOCQPWs-3--77" target="Rtp1QOuKAdaOCQPWs-3--81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--93" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 363.875px; top: 798.092px; font-family: sans-serif; transform: scaleX(0.779719);&quot;&gt;Leptosoles&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--99" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 830.732px; font-family: sans-serif; transform: scaleX(0.789088);&quot;&gt;Regosoles&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="10" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--100" value="&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 830.732px; font-family: sans-serif; transform: scaleX(0.789088);&quot;&gt;Feozems &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="90" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--103" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 863.372px; font-family: sans-serif; transform: scaleX(0.806467);&quot;&gt;Calcisoles &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--104" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 863.372px; font-family: sans-serif; transform: scaleX(0.806467);&quot;&gt;Luvisoles &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--105" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 896.012px; font-family: sans-serif; transform: scaleX(0.78907);&quot;&gt;Vertisoles &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--114" value="&#xa;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page511R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 128.504px; top: 732.812px; font-family: sans-serif; transform: scaleX(0.741214);&quot;&gt;cubren en conjunto el 80.7% de la superficie nacional&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--42" value="&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page513R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 766.617px; top: 1009.72px; font-family: sans-serif; transform: scaleX(0.954408);&quot;&gt;AGRICULTURA Y GRUPOS DE SUELO&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--44" target="Rtp1QOuKAdaOCQPWs-3--46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--44" target="Rtp1QOuKAdaOCQPWs-3--124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--44" target="Rtp1QOuKAdaOCQPWs-3--123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--44" value="&lt;span id=&quot;page513R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1125.54px; font-family: sans-serif; transform: scaleX(0.771563);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;provechamiento agrícola: &lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--42" target="Rtp1QOuKAdaOCQPWs-3--44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page513R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1125.54px; font-family: sans-serif; transform: scaleX(0.771563);&quot;&gt;los Luvisoles, &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--49" target="Rtp1QOuKAdaOCQPWs-3--131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="514" />
+              <mxPoint x="514" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.408;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--49" target="Rtp1QOuKAdaOCQPWs-3--127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--49" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page513R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1300.08px; font-family: sans-serif; transform: scaleX(0.763455);&quot;&gt;Los tres restantes grupos &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="-50" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--44" target="Rtp1QOuKAdaOCQPWs-3--49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--123" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page513R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1125.54px; font-family: sans-serif; transform: scaleX(0.771563);&quot;&gt;Feozems.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--124" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page513R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1125.54px; font-family: sans-serif; transform: scaleX(0.771563);&quot;&gt;Vertisoles &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--127" value="&#xa;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page513R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1300.08px; font-family: sans-serif; transform: scaleX(0.763455);&quot;&gt;tienen propiedades que&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1334.98px; font-family: sans-serif; transform: scaleX(0.76344);&quot;&gt;dificultan su aprovechamiento agrícola y aumentan su vulnerabilidad a la erosión&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-50" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--129" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page513R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1439.7px; font-family: sans-serif; transform: scaleX(0.747912);&quot;&gt;Calcisoles tienen elevadas concentraciones de carbonato de calcio.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="200" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--130" target="Rtp1QOuKAdaOCQPWs-3--129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--130" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page513R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1404.8px; font-family: sans-serif; transform: scaleX(0.755621);&quot;&gt;Regosoles son relativamente jóvenes por lo que tienen poco o nulo desarrollo del perfil,&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="398.75" y="110" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Rtp1QOuKAdaOCQPWs-3--131" target="Rtp1QOuKAdaOCQPWs-3--130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--131" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page513R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1334.98px; font-family: sans-serif; transform: scaleX(0.76344);&quot;&gt;Leptosoles&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257px; top: 1369.89px; font-family: sans-serif; transform: scaleX(0.74027);&quot;&gt;tienen severas limitaciones para el enraizamiento de las plantas.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="227.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rtp1QOuKAdaOCQPWs-3--149" value="&lt;span id=&quot;page516R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 868.927px; font-family: sans-serif; transform: scaleX(0.719198);&quot;&gt;Implican la reducción de su complejidad biológica, de su&lt;/span&gt; &lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 895.053px; font-family: sans-serif; transform: scaleX(0.756335);&quot;&gt;capacidad para producir bienes económicos y de llevar a cabo funciones de regulación directamente&lt;/span&gt; &lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 921.179px; font-family: sans-serif; transform: scaleX(0.756217);&quot;&gt;relacionadas con el bienestar humano, como son la productividad agrícola y el mantenimiento de la&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 104.308px; top: 947.305px; font-family: sans-serif; transform: scaleX(0.726287);&quot;&gt;calidad del agua y el aire&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="180" width="360" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
