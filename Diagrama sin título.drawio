@@ -1,30 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T20:46:37.280Z" agent="5.0 (Windows)" version="20.6.0" etag="8U901R3BrL_LceFLRIly" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T05:25:02.450Z" agent="5.0 (Windows)" etag="IQFOmzwLwrtk8BAxy55W" version="20.6.0" type="github">
   <diagram id="WJlBOxFyXvVvGmPsFCdD" name="Página-1">
-    <mxGraphModel dx="3017" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2379" dy="1505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-5bi2ouAyOfmzd2SsLai-1" target="-5bi2ouAyOfmzd2SsLai-3">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-5bi2ouAyOfmzd2SsLai-1" target="-5bi2ouAyOfmzd2SsLai-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="-30" />
-              <mxPoint x="120" y="-30" />
+              <mxPoint x="730" y="-30" />
+              <mxPoint x="320" y="-30" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-1" value="&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 112.821px; top: 354.791px; font-size: 16.7582px; font-family: sans-serif; transform: scaleX(0.830509);&quot;&gt;Agua&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-90" width="120" height="40" as="geometry" />
+        <mxCell id="nST6C-7RLPsOM7KjkvS0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-5bi2ouAyOfmzd2SsLai-1" target="-5bi2ouAyOfmzd2SsLai-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="-30" />
+              <mxPoint x="760" y="-30" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-78" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1169" y="34" width="260" height="176" as="geometry" />
+        <mxCell id="nST6C-7RLPsOM7KjkvS0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-5bi2ouAyOfmzd2SsLai-1" target="-5bi2ouAyOfmzd2SsLai-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="-30" />
+              <mxPoint x="1015" y="-30" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page45R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 284.976px; top: 122.892px; font-family: sans-serif; transform: scaleX(0.982873);&quot;&gt;SERVICIOS AMBIENTALES DE LOS ECOSISTEMAS ACUÁTICOS&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-78">
+        <mxCell id="nST6C-7RLPsOM7KjkvS0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-5bi2ouAyOfmzd2SsLai-1" target="-5bi2ouAyOfmzd2SsLai-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="-30" />
+              <mxPoint x="1250" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-1" value="&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 112.821px; top: 354.791px; font-size: 16.7582px; font-family: sans-serif; transform: scaleX(0.830509);&quot;&gt;Agua&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="-90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-78" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1120" y="40" width="260" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page45R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 284.976px; top: 122.892px; font-family: sans-serif; transform: scaleX(0.982873);&quot;&gt;SERVICIOS AMBIENTALES DE LOS ECOSISTEMAS ACUÁTICOS&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-78" vertex="1">
           <mxGeometry x="40" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-68" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;P&lt;span id=&quot;page45R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 309.543px; top: 144.039px; font-family: sans-serif; transform: scaleX(0.993482);&quot;&gt;ESCA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-78">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-68" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;P&lt;span id=&quot;page45R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 309.543px; top: 144.039px; font-family: sans-serif; transform: scaleX(0.993482);&quot;&gt;ESCA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-78" vertex="1">
           <mxGeometry x="70" y="76" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-78" source="-5bi2ouAyOfmzd2SsLai-66" target="-5bi2ouAyOfmzd2SsLai-68">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-78" source="-5bi2ouAyOfmzd2SsLai-66" target="-5bi2ouAyOfmzd2SsLai-68" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130.00000000000045" y="146" as="targetPoint" />
             <Array as="points">
@@ -33,10 +57,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-71" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page45R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 334.11px; top: 166.515px; font-family: sans-serif; transform: scaleX(0.760984);&quot;&gt;Estado de las pesquerías&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-78">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-71" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page45R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 334.11px; top: 166.515px; font-family: sans-serif; transform: scaleX(0.760984);&quot;&gt;Estado de las pesquerías&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-78" vertex="1">
           <mxGeometry y="136" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-78" source="-5bi2ouAyOfmzd2SsLai-68" target="-5bi2ouAyOfmzd2SsLai-71">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-78" source="-5bi2ouAyOfmzd2SsLai-68" target="-5bi2ouAyOfmzd2SsLai-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10.000000000000455" y="206" as="targetPoint" />
             <Array as="points">
@@ -45,10 +69,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-73" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page45R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 334.11px; top: 187.668px; font-family: sans-serif; transform: scaleX(0.783057);&quot;&gt;Otros impactos de la pesca&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-78">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-73" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page45R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 334.11px; top: 187.668px; font-family: sans-serif; transform: scaleX(0.783057);&quot;&gt;Otros impactos de la pesca&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-78" vertex="1">
           <mxGeometry x="140" y="136" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-78" source="-5bi2ouAyOfmzd2SsLai-68" target="-5bi2ouAyOfmzd2SsLai-73">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-78" source="-5bi2ouAyOfmzd2SsLai-68" target="-5bi2ouAyOfmzd2SsLai-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130.00000000000045" y="266" as="targetPoint" />
             <Array as="points">
@@ -57,16 +81,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-83" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-83" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="590" y="40" width="300" height="403.5" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 186.709px; top: 918.562px; font-family: sans-serif; transform: scaleX(1.03106);&quot;&gt;CALIDAD DEL AGUA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-83">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 186.709px; top: 918.562px; font-family: sans-serif; transform: scaleX(1.03106);&quot;&gt;CALIDAD DEL AGUA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" vertex="1">
           <mxGeometry x="110" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.27px; top: 963.282px; font-family: sans-serif; transform: scaleX(0.908296);&quot;&gt;RED DE MONITOREO E INDICADORES DE LA CALIDAD DEL AGUA SUPERFICIAL:&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-83">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.27px; top: 963.282px; font-family: sans-serif; transform: scaleX(0.908296);&quot;&gt;RED DE MONITOREO E INDICADORES DE LA CALIDAD DEL AGUA SUPERFICIAL:&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" vertex="1">
           <mxGeometry x="140" y="70" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-40" target="-5bi2ouAyOfmzd2SsLai-43">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-40" target="-5bi2ouAyOfmzd2SsLai-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="40" />
@@ -74,10 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.27px; top: 940.922px; font-family: sans-serif; transform: scaleX(0.962421);&quot;&gt;DESCARGAS DE AGUAS RESIDUALES&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-83">
-          <mxGeometry y="60" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-40" target="-5bi2ouAyOfmzd2SsLai-42">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-40" target="-5bi2ouAyOfmzd2SsLai-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="60" as="targetPoint" />
             <Array as="points">
@@ -86,16 +107,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-45" value="&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1009.33px; font-family: sans-serif; transform: scaleX(0.852631);&quot;&gt;Demanda bioquímica de oxígeno (DBO&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 508.339px; top: 1019.51px; font-family: sans-serif;&quot;&gt;5&lt;/span&gt;&lt;/font&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 514.251px; top: 1009.33px; font-size: 15.6px; font-family: sans-serif;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-83">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-45" value="&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1009.33px; font-family: sans-serif; transform: scaleX(0.852631);&quot;&gt;Demanda bioquímica de oxígeno (DBO&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 508.339px; top: 1019.51px; font-family: sans-serif;&quot;&gt;5&lt;/span&gt;&lt;/font&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 514.251px; top: 1009.33px; font-size: 15.6px; font-family: sans-serif;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="-5bi2ouAyOfmzd2SsLai-83" vertex="1">
           <mxGeometry x="140" y="170" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-43" target="-5bi2ouAyOfmzd2SsLai-45">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-43" target="-5bi2ouAyOfmzd2SsLai-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.853px; top: 1031.69px; font-family: sans-serif; transform: scaleX(0.868938);&quot;&gt;Demanda química de oxígeno (DQO)&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-83">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.853px; top: 1031.69px; font-family: sans-serif; transform: scaleX(0.868938);&quot;&gt;Demanda química de oxígeno (DQO)&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" vertex="1">
           <mxGeometry x="140" y="230" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-43" target="-5bi2ouAyOfmzd2SsLai-48">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-43" target="-5bi2ouAyOfmzd2SsLai-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="215" y="150" />
@@ -104,10 +125,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-50" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.853px; top: 1054.04px; font-family: sans-serif; transform: scaleX(0.769786);&quot;&gt;Sólidos suspendidos totales (SST)&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-83">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-50" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.853px; top: 1054.04px; font-family: sans-serif; transform: scaleX(0.769786);&quot;&gt;Sólidos suspendidos totales (SST)&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" vertex="1">
           <mxGeometry x="140" y="280" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-43" target="-5bi2ouAyOfmzd2SsLai-50">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-43" target="-5bi2ouAyOfmzd2SsLai-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="215" y="150" />
@@ -116,10 +137,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.853px; top: 1076.39px; font-family: sans-serif; transform: scaleX(0.754097);&quot;&gt;Calidad bacteriológica del agua de mar en playas&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-83">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.853px; top: 1076.39px; font-family: sans-serif; transform: scaleX(0.754097);&quot;&gt;Calidad bacteriológica del agua de mar en playas&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" vertex="1">
           <mxGeometry x="140" y="343.5" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-43" target="-5bi2ouAyOfmzd2SsLai-52">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-83" source="-5bi2ouAyOfmzd2SsLai-43" target="-5bi2ouAyOfmzd2SsLai-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="215" y="150" />
@@ -128,16 +149,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-96" value="" style="group" vertex="1" connectable="0" parent="-5bi2ouAyOfmzd2SsLai-83">
-          <mxGeometry x="-680" y="-6" width="770" height="380" as="geometry" />
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-96" value="" style="group" parent="-5bi2ouAyOfmzd2SsLai-83" vertex="1" connectable="0">
+          <mxGeometry x="-680" y="-6" width="810" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 186.709px; top: 627.881px; font-family: sans-serif; transform: scaleX(0.978379);&quot;&gt;DISPONIBILIDAD DEL AGUA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-96">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 186.709px; top: 627.881px; font-family: sans-serif; transform: scaleX(0.978379);&quot;&gt;DISPONIBILIDAD DEL AGUA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="-5bi2ouAyOfmzd2SsLai-96" vertex="1">
           <mxGeometry x="340" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 650.242px; font-family: sans-serif; transform: scaleX(0.954343);&quot;&gt;RESERVAS DE AGUA &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 650.242px; font-family: sans-serif; transform: scaleX(0.954343);&quot;&gt;DULCE EN EL MUNDO&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-96">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 650.242px; font-family: sans-serif; transform: scaleX(0.954343);&quot;&gt;RESERVAS DE AGUA &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 650.242px; font-family: sans-serif; transform: scaleX(0.954343);&quot;&gt;DULCE EN EL MUNDO&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="-5bi2ouAyOfmzd2SsLai-96" vertex="1">
           <mxGeometry x="260" y="80" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-6">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="60" />
@@ -145,16 +166,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 672.602px; font-family: sans-serif; transform: scaleX(0.975139);&quot;&gt;BALANCE HÍDRICO NACIONAL&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-96">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 672.602px; font-family: sans-serif; transform: scaleX(0.975139);&quot;&gt;BALANCE HÍDRICO NACIONAL&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="-5bi2ouAyOfmzd2SsLai-96" vertex="1">
           <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-9">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 717.322px; font-family: sans-serif; transform: scaleX(1.00566);&quot;&gt;ALMACENAMIENTO EN PRESAS&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-96">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 717.322px; font-family: sans-serif; transform: scaleX(1.00566);&quot;&gt;ALMACENAMIENTO EN PRESAS&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-96" vertex="1">
           <mxGeometry x="130" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-19">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="70" as="targetPoint" />
             <Array as="points">
@@ -163,7 +184,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-29">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="70" as="targetPoint" />
             <Array as="points">
@@ -173,10 +194,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 694.962px; font-family: sans-serif; transform: scaleX(0.932309);&quot;&gt;DISPONIBILIDAD NATURAL MEDIA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-96">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 694.962px; font-family: sans-serif; transform: scaleX(0.932309);&quot;&gt;DISPONIBILIDAD NATURAL MEDIA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-96" vertex="1">
           <mxGeometry x="530" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-16">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="60" />
@@ -184,7 +205,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-20">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-96" source="-5bi2ouAyOfmzd2SsLai-3" target="-5bi2ouAyOfmzd2SsLai-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="60" />
@@ -193,16 +214,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-97" value="" style="group" vertex="1" connectable="0" parent="-5bi2ouAyOfmzd2SsLai-96">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-97" value="" style="group" parent="-5bi2ouAyOfmzd2SsLai-96" vertex="1" connectable="0">
           <mxGeometry x="180" y="160" width="140" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 739.682px; font-family: sans-serif; transform: scaleX(1.0071);&quot;&gt;USOS CONSUNTIVOS DEL AGUA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-97">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 739.682px; font-family: sans-serif; transform: scaleX(1.0071);&quot;&gt;USOS CONSUNTIVOS DEL AGUA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-97" vertex="1">
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-22" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 763.37px; font-family: sans-serif; transform: scaleX(0.706375);&quot;&gt;El agua en&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 763.37px; font-family: sans-serif; transform: scaleX(0.706375);&quot;&gt;la agricultura&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-97">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-22" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 763.37px; font-family: sans-serif; transform: scaleX(0.706375);&quot;&gt;El agua en&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 763.37px; font-family: sans-serif; transform: scaleX(0.706375);&quot;&gt;la agricultura&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-97" vertex="1">
           <mxGeometry x="20" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-97" source="-5bi2ouAyOfmzd2SsLai-20" target="-5bi2ouAyOfmzd2SsLai-22">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-97" source="-5bi2ouAyOfmzd2SsLai-20" target="-5bi2ouAyOfmzd2SsLai-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="60" />
@@ -211,10 +232,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 808.08px; font-family: sans-serif; transform: scaleX(0.735408);&quot;&gt;Uso industrial del agua&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-97">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 808.08px; font-family: sans-serif; transform: scaleX(0.735408);&quot;&gt;Uso industrial del agua&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-97" vertex="1">
           <mxGeometry x="20" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-97" source="-5bi2ouAyOfmzd2SsLai-20" target="-5bi2ouAyOfmzd2SsLai-25">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-97" source="-5bi2ouAyOfmzd2SsLai-20" target="-5bi2ouAyOfmzd2SsLai-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="60" />
@@ -223,22 +244,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 785.725px; font-family: sans-serif; transform: scaleX(0.796656);&quot;&gt;Abastecimiento público&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-97">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 785.725px; font-family: sans-serif; transform: scaleX(0.796656);&quot;&gt;Abastecimiento público&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-97" vertex="1">
           <mxGeometry x="20" y="76.75" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-97" source="-5bi2ouAyOfmzd2SsLai-20" target="-5bi2ouAyOfmzd2SsLai-23">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-97" source="-5bi2ouAyOfmzd2SsLai-20" target="-5bi2ouAyOfmzd2SsLai-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-98" value="" style="group" vertex="1" connectable="0" parent="-5bi2ouAyOfmzd2SsLai-96">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-98" value="" style="group" parent="-5bi2ouAyOfmzd2SsLai-96" vertex="1" connectable="0">
           <mxGeometry x="500" y="150" width="150" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 829.122px; font-family: sans-serif; transform: scaleX(0.930121);&quot;&gt;GRADO DE PRESIÓN E INTENSIDAD DE USO&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-98">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.275px; top: 829.122px; font-family: sans-serif; transform: scaleX(0.930121);&quot;&gt;GRADO DE PRESIÓN E INTENSIDAD DE USO&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-98" vertex="1">
           <mxGeometry x="40" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 852.81px; font-family: sans-serif; transform: scaleX(0.770968);&quot;&gt;Aprovechamiento de las aguas superficiales y subterráneas&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-98">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 852.81px; font-family: sans-serif; transform: scaleX(0.770968);&quot;&gt;Aprovechamiento de las aguas superficiales y subterráneas&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-98" vertex="1">
           <mxGeometry x="20" y="170" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-98" source="-5bi2ouAyOfmzd2SsLai-29" target="-5bi2ouAyOfmzd2SsLai-31">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-98" source="-5bi2ouAyOfmzd2SsLai-29" target="-5bi2ouAyOfmzd2SsLai-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="95" y="70" />
@@ -247,10 +268,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 875.165px; font-family: sans-serif; transform: scaleX(0.771142);&quot;&gt;Acuíferos sobreexplotados y en otras condiciones&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-98">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 875.165px; font-family: sans-serif; transform: scaleX(0.771142);&quot;&gt;Acuíferos sobreexplotados y en otras condiciones&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-98" vertex="1">
           <mxGeometry x="20" y="90" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-98" source="-5bi2ouAyOfmzd2SsLai-29" target="-5bi2ouAyOfmzd2SsLai-34">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-98" source="-5bi2ouAyOfmzd2SsLai-29" target="-5bi2ouAyOfmzd2SsLai-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="95" y="70" />
@@ -259,16 +280,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-89" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="920" y="40" width="210" height="260" as="geometry" />
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.27px; top: 940.922px; font-family: sans-serif; transform: scaleX(0.962421);&quot;&gt;DESCARGAS DE AGUAS RESIDUALES&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-96" vertex="1">
+          <mxGeometry x="690" y="66" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-54" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.27px; top: 1097.44px; font-family: sans-serif; transform: scaleX(0.940549);&quot;&gt;SERVICIOS BÁSICOS RELACIONADOS CON EL AGUA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-89">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-89" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="900" y="40" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-54" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 211.27px; top: 1097.44px; font-family: sans-serif; transform: scaleX(0.940549);&quot;&gt;SERVICIOS BÁSICOS RELACIONADOS CON EL AGUA&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" vertex="1">
           <mxGeometry x="20" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-55" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1121.13px; font-family: sans-serif; transform: scaleX(0.835043);&quot;&gt;Agua potable&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-89">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-55" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1121.13px; font-family: sans-serif; transform: scaleX(0.835043);&quot;&gt;Agua potable&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" vertex="1">
           <mxGeometry x="20" y="110" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-89" source="-5bi2ouAyOfmzd2SsLai-54" target="-5bi2ouAyOfmzd2SsLai-55">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" source="-5bi2ouAyOfmzd2SsLai-54" target="-5bi2ouAyOfmzd2SsLai-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="115" y="50" />
@@ -277,10 +301,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-58" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1143.49px; font-family: sans-serif; transform: scaleX(0.749752);&quot;&gt;Plantas potabilizadoras&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-89">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-58" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1143.49px; font-family: sans-serif; transform: scaleX(0.749752);&quot;&gt;Plantas potabilizadoras&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" vertex="1">
           <mxGeometry x="20" y="150" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-89" source="-5bi2ouAyOfmzd2SsLai-54" target="-5bi2ouAyOfmzd2SsLai-58">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" source="-5bi2ouAyOfmzd2SsLai-54" target="-5bi2ouAyOfmzd2SsLai-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="115" y="50" />
@@ -289,10 +313,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-59" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1165.84px; font-family: sans-serif; transform: scaleX(0.72949);&quot;&gt;Alcantarillado&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-89">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-59" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1165.84px; font-family: sans-serif; transform: scaleX(0.72949);&quot;&gt;Alcantarillado&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" vertex="1">
           <mxGeometry x="20" y="190" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-89" source="-5bi2ouAyOfmzd2SsLai-54" target="-5bi2ouAyOfmzd2SsLai-59">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" source="-5bi2ouAyOfmzd2SsLai-54" target="-5bi2ouAyOfmzd2SsLai-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="115" y="50" />
@@ -301,10 +325,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-60" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1188.19px; font-family: sans-serif; transform: scaleX(0.784545);&quot;&gt;Tratamiento de aguas residuales&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-89">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-60" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1188.19px; font-family: sans-serif; transform: scaleX(0.784545);&quot;&gt;Tratamiento de aguas residuales&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" vertex="1">
           <mxGeometry x="20" y="230" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-89" source="-5bi2ouAyOfmzd2SsLai-54" target="-5bi2ouAyOfmzd2SsLai-60">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" source="-5bi2ouAyOfmzd2SsLai-54" target="-5bi2ouAyOfmzd2SsLai-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="115" y="50" />
@@ -313,10 +337,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-61" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1210.55px; font-family: sans-serif; transform: scaleX(0.763871);&quot;&gt;Plantas de tratamiento de aguas residuales&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="-5bi2ouAyOfmzd2SsLai-89">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-61" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page43R_mcid0&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 235.842px; top: 1210.55px; font-family: sans-serif; transform: scaleX(0.763871);&quot;&gt;Plantas de tratamiento de aguas residuales&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" vertex="1">
           <mxGeometry x="20" y="70" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5bi2ouAyOfmzd2SsLai-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="-5bi2ouAyOfmzd2SsLai-89" source="-5bi2ouAyOfmzd2SsLai-54" target="-5bi2ouAyOfmzd2SsLai-61">
+        <mxCell id="-5bi2ouAyOfmzd2SsLai-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="-5bi2ouAyOfmzd2SsLai-89" source="-5bi2ouAyOfmzd2SsLai-54" target="-5bi2ouAyOfmzd2SsLai-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
